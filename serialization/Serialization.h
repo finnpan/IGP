@@ -20,7 +20,7 @@ template <typename T>
 std::unique_ptr<T> create_instance_unique(const std::string &alias);
 
 ////////////////////////////////////////////////////////////////////////////////
-//                      A Minimalist Serializer                               //
+//                   A Minimalist Serializer for Taichi                       //
 //                           (Requires C++17)                                 //
 ////////////////////////////////////////////////////////////////////////////////
 
